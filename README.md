@@ -59,7 +59,7 @@ Sistem diuji dengan pertanyaan spesifik mengenai kebijakan akademik: _"Apa itu f
 - **Sintesis Akurat:** Sistem berhasil mengekstrak dan menjelaskan poin _Think, Use, Check, Enhance_ dari Halaman 17 secara mendalam.
 - **Verifikasi Referensi:** Berbeda dengan RAG biasa, sistem ini secara eksplisit mencantumkan nomor halaman sumber yang telah divalidasi oleh model Reranker untuk menjamin transparansi.
 
-![Hasil RAG System](Result-advanded-RAG.png)
+![Hasil RAG System](Result-advanced-RAG.png)
 
 ## 🚀 Kesimpulan & Pengembangan Kedepan
 
